@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Buddy007k
+- 👋 Hi, I’m Chetan
 - 👀 I’m interested in ethical hacking.
-- 🌱 I’m currently learning penetration testing, dark web and web development.
-- 💞️ I’m looking to collaborate on hacking and web development.
+- 🌱 I’m currently learning penetration testing, dark web and vulnerability assessment.
+- 💞️ I’m looking to collaborate on ethical hacking, bug bounty hunting and penetration testing.
 - 📫 Reach me via my github account or via LinkedIn https://www.linkedin.com/in/chetan1210
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: hungry for learning and fast learner.
